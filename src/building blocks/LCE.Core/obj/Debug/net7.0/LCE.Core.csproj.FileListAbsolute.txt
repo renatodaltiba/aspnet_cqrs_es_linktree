@@ -1,0 +1,12 @@
+/var/www/Linktree_cqrs_es/src/building blocks/LCE.Core/bin/Debug/net7.0/LCE.Core.deps.json
+/var/www/Linktree_cqrs_es/src/building blocks/LCE.Core/bin/Debug/net7.0/LCE.Core.dll
+/var/www/Linktree_cqrs_es/src/building blocks/LCE.Core/bin/Debug/net7.0/LCE.Core.pdb
+/var/www/Linktree_cqrs_es/src/building blocks/LCE.Core/obj/Debug/net7.0/LCE.Core.csproj.AssemblyReference.cache
+/var/www/Linktree_cqrs_es/src/building blocks/LCE.Core/obj/Debug/net7.0/LCE.Core.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/Linktree_cqrs_es/src/building blocks/LCE.Core/obj/Debug/net7.0/LCE.Core.AssemblyInfoInputs.cache
+/var/www/Linktree_cqrs_es/src/building blocks/LCE.Core/obj/Debug/net7.0/LCE.Core.AssemblyInfo.cs
+/var/www/Linktree_cqrs_es/src/building blocks/LCE.Core/obj/Debug/net7.0/LCE.Core.csproj.CoreCompileInputs.cache
+/var/www/Linktree_cqrs_es/src/building blocks/LCE.Core/obj/Debug/net7.0/LCE.Core.dll
+/var/www/Linktree_cqrs_es/src/building blocks/LCE.Core/obj/Debug/net7.0/refint/LCE.Core.dll
+/var/www/Linktree_cqrs_es/src/building blocks/LCE.Core/obj/Debug/net7.0/LCE.Core.pdb
+/var/www/Linktree_cqrs_es/src/building blocks/LCE.Core/obj/Debug/net7.0/ref/LCE.Core.dll

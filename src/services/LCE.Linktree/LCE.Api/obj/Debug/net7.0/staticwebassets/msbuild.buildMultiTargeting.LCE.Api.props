@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/LCE.Api.props" />
+</Project>

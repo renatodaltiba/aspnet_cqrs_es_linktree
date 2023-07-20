@@ -1,0 +1,15 @@
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/bin/Debug/net7.0/LCE.Domain.deps.json
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/bin/Debug/net7.0/LCE.Domain.dll
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/bin/Debug/net7.0/LCE.Domain.pdb
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/bin/Debug/net7.0/LCE.Core.dll
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/bin/Debug/net7.0/LCE.Core.pdb
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/obj/Debug/net7.0/LCE.Domain.csproj.AssemblyReference.cache
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/obj/Debug/net7.0/LCE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/obj/Debug/net7.0/LCE.Domain.AssemblyInfoInputs.cache
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/obj/Debug/net7.0/LCE.Domain.AssemblyInfo.cs
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/obj/Debug/net7.0/LCE.Domain.csproj.CoreCompileInputs.cache
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/obj/Debug/net7.0/LCE.Domain.csproj.CopyComplete
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/obj/Debug/net7.0/LCE.Domain.dll
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/obj/Debug/net7.0/refint/LCE.Domain.dll
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/obj/Debug/net7.0/LCE.Domain.pdb
+/var/www/Linktree_cqrs_es/src/services/LCE.Linktree/LCE.Domain/obj/Debug/net7.0/ref/LCE.Domain.dll
